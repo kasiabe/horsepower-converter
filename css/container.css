@@ -1,0 +1,14 @@
+.container {
+    width: 100%;
+    max-width: 700px;
+    background-color: rgb(205, 191, 191);
+}
+
+.container__header {
+    text-align: center;
+}
+.container__description {
+    margin: 10px auto;
+    font-style: italic;
+
+}
